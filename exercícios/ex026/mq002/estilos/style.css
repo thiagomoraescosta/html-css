@@ -9,11 +9,12 @@
     background-color: #233eff;
 }
 
-head, body {
+head,
+body {
     width: 100vw;
-    height: 100vh; 
+    height: 100vh;
     background-size: contain;
-    background-repeat: no-repeat; 
+    background-repeat: no-repeat;
 }
 
 h1 {
